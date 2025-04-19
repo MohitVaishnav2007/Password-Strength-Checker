@@ -26,13 +26,6 @@ A user-friendly web application that evaluates the strength of passwords in real
 
 ---
 
-## 📷 Demo
-
-![App Screenshot](path/to/screenshot.png)
-
-*Replace `path/to/screenshot.png` with the actual path to your application's screenshot.*
-
----
 
 ## 🛠️ Installation
 
@@ -122,6 +115,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
-
-*Feel free to customize this `README.md` further to align with your project's specifics and add any additional information that might be helpful for users or recruiters.*
-
