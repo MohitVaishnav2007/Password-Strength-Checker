@@ -2,15 +2,15 @@
 
 This Python-based Password Strength Checker evaluates the security of your passwords by checking for:
 
-Password length
+- Password length
 
-Uppercase & lowercase characters
+- Uppercase & lowercase characters
 
-Digits
+- Digits
 
-Special characters
+- Special characters
 
-Common password usage (against a dictionary file)
+- Common password usage (against a dictionary file)
 
 
 It provides actionable suggestions to improve password strength and helps raise cybersecurity awareness.
@@ -40,11 +40,11 @@ It provides actionable suggestions to improve password strength and helps raise 
 
 Python 3
 
-re (Regular Expressions)
+- re (Regular Expressions)
 
-getpass (Secure Password Input)
+- getpass (Secure Password Input)
 
-File Handling (open)
+- File Handling (open)
 
 
 
@@ -119,15 +119,15 @@ Remarks:
 
 ## 🌟 Learning Outcome
 
-Password Security Fundamentals
+- Password Security Fundamentals
 
-Regular Expressions (Regex)
+- Regular Expressions (Regex)
 
-Secure Input Handling
+- Secure Input Handling
 
-File Operations in Python
+- File Operations in Python
 
-Cybersecurity Tool Development
+- Cybersecurity Tool Development
 
 
 
